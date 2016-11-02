@@ -1,0 +1,48 @@
+.header {
+	text-align: center;
+
+}
+
+/*#navbar {
+	
+	list-style: none;
+	
+}
+
+#navbar li {
+	float: left;
+    padding: 14px 16px;
+    text-decoration: none;
+	display:inline-flex;
+	background: gray;
+   
+}
+
+
+#khurram {
+	background-color: gray;
+}*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+
+}
+
+li {
+    float: left;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 20px;
+    padding-left: 20px;
+    color: white;
+    font-size: 1.5em;
+    ewit
+}
+
+li:hover {
+	background: white;
+	color: black;
+}
